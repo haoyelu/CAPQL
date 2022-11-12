@@ -18,7 +18,7 @@
 ### CAPQL
 
 ```
-    python main.py model.type=CAPQL training.alpha=0.1 name=HopperM-v0
+python main.py model.type=CAPQL training.alpha=0.1 name=HopperM-v0
 ```
 
 alpha controls the strength of the augmentation effect (see Eq 8)
@@ -30,7 +30,7 @@ You can choose among the following environment name:
 ### QENV_CTN
 
 ```
-    python main.py model.type=QENV_CTN name=HopperM-v0
+python main.py model.type=QENV_CTN name=HopperM-v0
 ```
 
     You can choose among the following environment name:
