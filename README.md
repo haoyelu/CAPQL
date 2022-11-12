@@ -25,7 +25,7 @@ alpha controls the strength of the augmentation effect (see Eq 8)
 
 You can choose among the following environment name:
 
-    name = HopperM-v0, Walker2dM-v0, HalfCheetahM-v0, HumanoidEnvM-v0
+name = HopperM-v0, Walker2dM-v0, HalfCheetahM-v0, HumanoidEnvM-v0
 
 ### QENV_CTN
 
@@ -33,6 +33,6 @@ You can choose among the following environment name:
 python main.py model.type=QENV_CTN name=HopperM-v0
 ```
 
-    You can choose among the following environment name:
+You can choose among the following environment name:
 
-    name = HopperM-v0, Walker2dM-v0, HalfCheetahM-v0, HumanoidEnvM-v0
+name = HopperM-v0, Walker2dM-v0, HalfCheetahM-v0, HumanoidEnvM-v0
