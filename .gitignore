@@ -1,0 +1,10 @@
+**/*.idea
+**/runs/*
+**/*__pycache__
+**/*.DS_Store
+**/src/**/*.pdf
+**/src/**/*.npy
+**/src/**/*.png
+**/src/**/*.jpeg
+**/__pycache__
+**/outputs
